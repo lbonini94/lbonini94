@@ -5,6 +5,6 @@
 ## Hi 👋, 
 I'm Lucas A. Bonini. I'm graduated in electrical engineer and passionate about data science and technology.
 
-- 🔭 I’m currently working with livestock 4.0 
+- 🔭 I’m currently working on [GAVB](https://www.gavb.com.br/)
 - 🌱 I’m currently learning Data Science/Engineer stack
--  ⚡ Technologies: Python, R, Spark...
+-  ⚡ Technologies: Python, R, SQL...
