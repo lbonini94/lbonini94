@@ -5,6 +5,6 @@
 ## Hi 👋, 
 I'm Lucas A. Bonini. I'm graduated in electrical engineer and passionate about data science and technology.
 
-- 🔭 I’m currently working on [GAVB](https://www.gavb.com.br/)
-- 🌱 I’m currently learning Data Science/Engineer stack
--  ⚡ Technologies: Python, R, SQL...
+- 🔭 I’m currently working on [CI&T](https://www.ciandt.com)
+- 🌱 I’m currently learning Data Science/Engineer stack for MLOps
+-  ⚡ Technologies: Python, Docker, Dask...
