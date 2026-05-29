@@ -5,4 +5,4 @@
 ## Hi 👋, 
 I'm Lucas A. Bonini.
 
-- 🔭 I’m currently working on [United](https://www.united.com/pt/br)
+- 🔭 I’m currently working on [JnJ](https://www.jnj.com)
